@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5SPR0YKGFb+2esXrSQ83tFTVU+9wY1HB5MqZu4ct2w0aHtKQLRWzt8OQAEZ0ZH1StYixc1vGGmN6Kr8gw+0iwg==",
+  "success": true,
+  "projectFilePath": "/Users/juliapappp/Downloads/Cornell/cornell/6_S24/INFO 4390/HW2_due_feb29/speech-to-text3/speech-to-text3.csproj",
+  "expectedPackageFiles": [
+    "/Users/juliapappp/.nuget/packages/microsoft.cognitiveservices.speech/1.35.0/microsoft.cognitiveservices.speech.1.35.0.nupkg.sha512"
+  ],
+  "logs": []
+}
