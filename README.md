@@ -32,7 +32,7 @@ The multi-service resource is listed under Azure AI services > Azure AI services
 - After finishing Unit 3, you should be all set to continue to the next step, which is installing dependencies. If you run into any troubles, just continue onto unit 4 and follow links wherever needed.
 
 ## Dependencies [DO THIS BEFORE RUNNING ANY CODE]
-o be able to run the algorithm you will need to install serval dependencies and set up a virtual environent. Follow these steps to ensure smooth running of the algorithm:
+To be able to run the algorithm you will need to install serval dependencies and set up a virtual environent. Follow these steps to ensure smooth running of the algorithm:
 
 Open your terminal in VS code by going to Terminal >> New Terminal and type dotnet add package Microsoft.CognitiveServices.Speech
 
